@@ -1,4 +1,4 @@
-# PennyWise – Personal Finance Assistant
+# PennyWise – Personal Finance Assistant (Ayush Chauhan, 2025kuad3036)
 
 PennyWise is a beginner-friendly personal finance assistant built with Python, Streamlit and Pandas.
 
